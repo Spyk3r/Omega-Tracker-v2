@@ -17,7 +17,7 @@
 
 Todo el escaneo se realiza con la librería estándar de Python, así que funciona igual en Windows, Linux y macOS sin instalar nada adicional. 🐍
 
-> ⚠️ \*\*Uso responsable:\*\* esta herramienta usa únicamente APIs públicas y técnicas no intrusivas (sin explotación de vulnerabilidades). 
+> ⚠️ \**Uso responsable:\** esta herramienta usa únicamente APIs públicas y técnicas no intrusivas (sin explotación de vulnerabilidades). 
 
 
 ## ✨ Características
