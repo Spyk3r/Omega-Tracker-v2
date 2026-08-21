@@ -4,10 +4,10 @@
 
 ### 🛰️ Herramienta OSINT para reconocimiento de direcciones IP
 
-!\[Python] (https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square\&logo=python\&logoColor=white)
-!\[Platform] (https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux%20%7C%20macOS-informational?style=flat-square)
-!\[License] (https://img.shields.io/badge/Uso-Educativo%20%2F%20OSINT-yellow?style=flat-square)
-!\[Status] (https://img.shields.io/badge/Estado-Activo-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plataforma](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux%20%7C%20macOS-informational?style=flat-square)
+![Licencia](https://img.shields.io/badge/Uso-Educativo%20%7C%20OSINT-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Estado-Activo-success?style=flat-square)
 
 </div>
 
