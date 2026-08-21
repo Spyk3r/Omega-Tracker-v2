@@ -46,11 +46,11 @@ Todo el escaneo se realiza con la librería estándar de Python, así que funcio
 
 **Menú principal**
 
-<img src="assets/screenshot\_menu.png" alt="Menú de Omega Tracker v2" width="600"/>
+<img src="assets/screenshot_menu.png" alt="Menú de Omega Tracker v2" width="600"/>
 
 **Resultado de un análisis**
 
-<img src="assets/screenshot\_scan.png" alt="Resultado de análisis de IP" width="600"/>
+<img src="assets/screenshot_scan.png" alt="Resultado de análisis de IP" width="600"/>
 
 </div>
 
