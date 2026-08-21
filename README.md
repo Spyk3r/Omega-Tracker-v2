@@ -13,7 +13,8 @@
 
 ## 📖 Descripción
 
-**Omega Tracker v2** es la sucesora de [Omega Tracker](https://github.com/Spyk3r/Omega-Tracker), la herramienta original que permitía obtener información básica de una dirección IP. Esta nueva versión fue reescrita completamente desde cero 🔧, con un motor de reconocimiento mucho más completo, un menú interactivo y una interfaz de terminal con animación propia.
+**Omega Tracker v2** es la sucesora de [Omega Tracker](https://github.com/Spyk3r/Omega-Tracker), la herramienta original que permitía obtener información básica de una dirección IP. 
+Esta nueva versión fue reescrita completamente desde cero 🔧, con un motor de reconocimiento mucho más completo, un menú interactivo y una interfaz de terminal con animación propia.
 
 Todo el escaneo se realiza con la librería estándar de Python, así que funciona igual en Windows, Linux y macOS sin instalar nada adicional. 🐍
 
