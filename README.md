@@ -11,8 +11,6 @@
 
 </div>
 
-\---
-
 ## 📖 Descripción
 
 **Omega Tracker v2** es la sucesora de [Omega Tracker](https://github.com/Spyk3r/Omega-Tracker), la herramienta original que permitía obtener información básica de una dirección IP. Esta nueva versión fue reescrita completamente desde cero 🔧, con un motor de reconocimiento mucho más completo, un menú interactivo y una interfaz de terminal con animación propia.
@@ -21,7 +19,6 @@ Todo el escaneo se realiza con la librería estándar de Python, así que funcio
 
 > ⚠️ \*\*Uso responsable:\*\* esta herramienta usa únicamente APIs públicas y técnicas no intrusivas (sin explotación de vulnerabilidades). 
 
-\---
 
 ## ✨ Características
 
@@ -38,7 +35,6 @@ Todo el escaneo se realiza con la librería estándar de Python, así que funcio
 |🎛️|Menú interactivo con opción de encadenar varias búsquedas|
 |🎨|Banner ASCII animado con efecto glitch al iniciar|
 
-\---
 
 ## 🖼️ Capturas
 
@@ -54,7 +50,6 @@ Todo el escaneo se realiza con la librería estándar de Python, así que funcio
 
 </div>
 
-\---
 
 ## ⚙️ Instalación
 
@@ -73,7 +68,6 @@ pip install -r requirements.txt
   * `ipwhois`
   * `cryptography`
 
-\---
 
 ## 🚀 Uso
 
@@ -98,7 +92,6 @@ Al iniciar verás la animación del banner y luego el menú principal:
 
 Después de analizar una IP, puedes presionar **Enter** para analizar otra inmediatamente, o escribir **`m`** para volver al menú principal. 🔄
 
-\---
 
 ## 🧠 Información que recolecta
 
@@ -144,7 +137,6 @@ Después de analizar una IP, puedes presionar **Enter** para analizar otra inmed
 
 </details>
 
-\---
 
 ## 🧪 Testeado en
 
@@ -153,7 +145,6 @@ Después de analizar una IP, puedes presionar **Enter** para analizar otra inmed
 * ✅ Termux (Android)
 * ✅ macOS
 
-\---
 
 ## 👤 Créditos
 
@@ -163,7 +154,6 @@ Después de analizar una IP, puedes presionar **Enter** para analizar otra inmed
 |🐙 **GitHub**|[github.com/Spyk3r](https://github.com/Spyk3r)|
 |💬 **Discord**|spyk3r|
 
-\---
 
 <div align="center">
 
