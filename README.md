@@ -85,10 +85,10 @@ Al iniciar verás la animación del banner y luego el menú principal:
 
 |Opción|Acción|
 |:-:|-|
-|`1`|🎯 Ingresar una IP para trackear|
-|`2`|❓ Ver ayuda e información de la herramienta|
-|`3`|👤 Ver créditos|
-|`0`|🚪 Salir|
+|`[1]`|🎯 Ingresar una IP para trackear|
+|`[2]`|❓ Ver ayuda e información de la herramienta|
+|`[3]`|👤 Ver créditos|
+|`[0]`|🚪 Salir|
 
 Después de analizar una IP, puedes presionar **Enter** para analizar otra inmediatamente, o escribir **`m`** para volver al menú principal. 🔄
 
