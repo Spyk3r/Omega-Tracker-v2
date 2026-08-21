@@ -54,8 +54,8 @@ Todo el escaneo se realiza con la librería estándar de Python, así que funcio
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/Spyk3r/Omega-Tracker-V2.git
-cd Omega-Tracker-V2
+git clone https://github.com/Spyk3r/Omega-Tracker-v2.git
+cd Omega-Tracker-v2
 pip install -r requirements.txt
 ```
 
